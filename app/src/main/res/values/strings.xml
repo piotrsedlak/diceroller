@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">roller</string>
+    <string name="roll">roll</string>
+    <string name="resultText">Dice Rolled</string>
+    <string name="countUp">CountUp</string>
+    <string name="roll_label">roll</string>
+    <string name="count_up">countUp</string>
+    <string name="reset">reset</string>
+    <string name="hello_world">Hello World</string>
+</resources>
